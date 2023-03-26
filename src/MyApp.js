@@ -15,7 +15,7 @@ import {
 } from "./components";
 import { AuthContextProvider } from "./context/authContext";
 
-import './App.css'
+import './MyApp.css'
 
 const theme = createTheme({
   palette: {
