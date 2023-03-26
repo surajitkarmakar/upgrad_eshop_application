@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import App from './App';
+import App from './MyApp';
 import reportWebVitals from './reportWebVitals';
 // import { AuthContextProvider } from './context/authContext';
 
@@ -29,7 +29,7 @@ reportWebVitals();
 //   Route,
 //   Link,} from "react-router-dom";
 
-// import App from './App'
+// import App from './MyApp'
 // import Signup from './components/Signup/Signup';
 // import Login from './components/Login/Login';
 
